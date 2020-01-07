@@ -4,7 +4,7 @@
 #
 Name     : speedtest-cli
 Version  : 2.1.2
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/5c/c8/296057f78f16721863f9edb5abdb0d2648c5c6932697f29d80d920fdcd91/speedtest-cli-2.1.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/5c/c8/296057f78f16721863f9edb5abdb0d2648c5c6932697f29d80d920fdcd91/speedtest-cli-2.1.2.tar.gz
 Summary  : Command line interface for testing internet bandwidth using speedtest.net
